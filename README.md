@@ -4,8 +4,7 @@
 
 ##  Anggota Kelompok
 - Dewa Pragusha (221011400469)
-- Nama Anggota 2
-- Nama Anggota 3
+
 
 ##  Deskripsi
 Aplikasi GUI berbasis Java (Swing) untuk mengelola kontak.  
