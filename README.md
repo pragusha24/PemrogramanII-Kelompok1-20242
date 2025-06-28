@@ -3,7 +3,12 @@
 # Aplikasi Manajemen Kontak
 
 ##  Anggota Kelompok
-- Dewa Pragusha (221011400469)
+
+- ANGGI SAPUTRA
+- BERTALIA NAUL
+- DANTE FRITS
+- DENNIS ARYA FEBRIAN
+- Dewa Pragusha
 
 
 ##  Deskripsi
